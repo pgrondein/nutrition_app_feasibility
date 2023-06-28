@@ -35,26 +35,26 @@ In total, after data cleaning and processing, 15 variables are pre-selected. The
 ### Univariate
 #### Nutrigrade is a qualitative feature.
 
-<img src="https://github.com/pgrondein/nutrition_app_feasibility/assets/113172845/15e1ee5d-2fbc-4814-85ad-310ab2ceb678" height="450">
+<img src="https://github.com/pgrondein/nutrition_app_feasibility/assets/113172845/15e1ee5d-2fbc-4814-85ad-310ab2ceb678" height="500">
 
 We observe with this pie plot that more than 40% of the products have a Nutrigrade of d. The other grades are distributed more or less evenly, around 15%.
 
 #### Nutriscore is a discrete quantitative feature
 
-<img src="https://github.com/pgrondein/nutrition_app_feasibility/assets/113172845/d360ab1c-6783-4845-9d46-10f0586256d6" height="450">
+<img src="https://github.com/pgrondein/nutrition_app_feasibility/assets/113172845/d360ab1c-6783-4845-9d46-10f0586256d6" height="500">
 
 The distribution of the Nutriscore seems to indicate a large proportion of products with a score of 10, however, it is possible that this is the consequence of the treatment of missing values by median values.
 
 #### Macros & nutrients are continuous quantitative features
 
-<img src="https://github.com/pgrondein/nutrition_app_feasibility/assets/113172845/8890e1b1-0b07-49f4-a241-d2a6ad417c0f" height="450">
+<img src="https://github.com/pgrondein/nutrition_app_feasibility/assets/113172845/8890e1b1-0b07-49f4-a241-d2a6ad417c0f" height="500">
 
 ### Multivariate
 In order to check feature redundancy, it is interesting to study the correlation level between them. Indeed, keeping two correlated features brings no added value to the final grade.
 #### ANOVA (ANalysis Of VAriance) - Nutriscore & Nutrigrade
 An ANOVA test is used to determine relationship degree between two features.
 
-<img src="https://github.com/pgrondein/nutrition_app_feasibility/assets/113172845/be11fa18-ee9c-4d35-8e99-546312708663" height="400">
+<img src="https://github.com/pgrondein/nutrition_app_feasibility/assets/113172845/be11fa18-ee9c-4d35-8e99-546312708663" height="500">
 
 Mean values of each Nutriscore group appear clearly different. The higher the Nutriscore, the lower the letter (e), and inversely.
 
@@ -70,7 +70,7 @@ It appears that p-value < 5%, the correlation hypothesis is therefore validated.
 #### Correlation between nutritional values
 In order to observe the possible relationships between nutritional features, I use a heatmap which gives me an overview of all of them.
 
-<img src="https://github.com/pgrondein/nutrition_app_feasibility/assets/113172845/051d1cbe-e825-4544-9ad0-647152576d2e" height="400">
+<img src="https://github.com/pgrondein/nutrition_app_feasibility/assets/113172845/051d1cbe-e825-4544-9ad0-647152576d2e" height="500">
 
 Thanks to the correlation matrix, we see more clearly that the pairs 
 
