@@ -36,7 +36,7 @@ In total, after data cleaning and processing, 15 variables are pre-selected. The
 ### Univariate
 #### Nutrigrade is a qualitative feature.
 
-<img src="https://github.com/pgrondein/nutrition_app_feasibility/assets/113172845/15e1ee5d-2fbc-4814-85ad-310ab2ceb678" height="500">
+<img src="https://github.com/pgrondein/nutrition_app_feasibility/assets/113172845/08fc41ea-6148-4f78-90ec-2b993acb7435" height="500">
 
 We observe with this pie plot that more than 40% of the products have a Nutrigrade of d. The other grades are distributed more or less evenly, around 15%.
 
