@@ -42,7 +42,7 @@ We observe with this pie plot that more than 40% of the products have a Nutrigra
 
 #### Nutriscore is a discrete quantitative feature
 
-<img src="https://github.com/pgrondein/nutrition_app_feasibility/assets/113172845/d360ab1c-6783-4845-9d46-10f0586256d6" height="500">
+<img src="https://github.com/pgrondein/nutrition_app_feasibility/assets/113172845/d133db8c-758b-4d97-a695-cb6c6153dec0" height="500">
 
 The distribution of the Nutriscore seems to indicate a large proportion of products with a score of 10, however, it is possible that this is the consequence of the treatment of missing values by median values.
 
