@@ -50,6 +50,8 @@ The distribution of the Nutriscore seems to indicate a large proportion of produ
 
 <img src="https://github.com/pgrondein/nutrition_app_feasibility/assets/113172845/8890e1b1-0b07-49f4-a241-d2a6ad417c0f" height="500">
 
+![density](https://github.com/pgrondein/nutrition_app_feasibility/assets/113172845/3117e5e8-f972-4ebc-925e-b764cbec599a)
+
 ### Multivariate
 In order to check feature redundancy, it is interesting to study the correlation level between them. Indeed, keeping two correlated features brings no added value to the final grade.
 #### ANOVA (ANalysis Of VAriance) - Nutriscore & Nutrigrade
