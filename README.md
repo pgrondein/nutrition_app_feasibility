@@ -1,6 +1,7 @@
 # Nutrition Application - Feasibility Report
 
-![made_in_food](https://github.com/pgrondein/nutrition_app_feasibility/assets/113172845/a7e868b3-669f-402f-9a0a-9777e41c7217)
+![banniere_](https://github.com/pgrondein/nutrition_app_feasibility/assets/113172845/30ce05d6-9e45-4a3e-a2f8-3fa2217a28f2)
+
 
 
 ## Context
